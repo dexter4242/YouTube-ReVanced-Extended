@@ -1,3 +1,4 @@
+YouTube-Extended: 19.11.38  
 Music (arm64-v8a): 6.49.53  
 Music (arm-v7a): 6.49.53  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouTube from Google Play  
